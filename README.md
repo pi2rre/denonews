@@ -15,7 +15,7 @@ The goal of this project is to crawl the web for all Deno news and documentation
 
 To get started with Denonews, you will need to have Deno installed on your machine. You can then clone this repository and run the following command to start the app:
 
-````
+```
 deno run --allow-net index.ts
 ```
 
